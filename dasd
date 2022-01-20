@@ -1,0 +1,29 @@
+[33mcommit 1e66404ff63485d8f0cdb0c673999ccf77934ac9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aaron <Aaronomary@gmail.com>
+Date:   Wed Jan 19 21:42:47 2022 -0500
+
+    Add 2 new recipes to recipe list
+
+[33mcommit 62adbf2fb678ef4013ca06ced8dd3752263eadac[m
+Author: Aaron <Aaronomary@gmail.com>
+Date:   Wed Jan 19 21:41:44 2022 -0500
+
+    Create 2 new recipes
+
+[33mcommit c76be71f13e11831c41231456a5b0770c998c00f[m
+Author: Aaron <Aaronomary@gmail.com>
+Date:   Wed Jan 19 21:36:08 2022 -0500
+
+    Add content to the first recipe
+
+[33mcommit d9cf51b99ef3f997a5c4542e05769f4782e37a91[m
+Author: Aaron <Aaronomary@gmail.com>
+Date:   Wed Jan 19 17:15:59 2022 -0500
+
+    Creat the first recipe
+
+[33mcommit 235ac88340a400f57ff18c5fb6512dc70b50fba4[m
+Author: Aaron <Aaronomary@gmail.com>
+Date:   Wed Jan 19 17:07:05 2022 -0500
+
+    setup the HTML boilerplate
